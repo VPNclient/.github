@@ -6,4 +6,4 @@
 
 Controller предоставит простой доступ для клиентского интерфейса.
 
-![VPN Client Controller](https://github.com/VPNclient/.github/raw/master/assets/vpnclient_scheme.png)
+![VPN Client Controller](https://raw.githubusercontent.com/VPNclient/.github/refs/heads/main/assets/vpnclient_scheme.png)

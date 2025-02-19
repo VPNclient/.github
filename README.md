@@ -4,4 +4,6 @@
 В качестве ядра могут выступать XRAY, Sign-box и/или другие opensource решения.
 В качестве драйвера туннеля могут выступать другие открытые решения.
 
-Wrapper предоставит простой доступ для клиентского интерфейса.
+Controller предоставит простой доступ для клиентского интерфейса.
+
+![VPN Client Controller](https://github.com/VPNclient/.github/raw/master/assets/vpnclient_scheme.png)

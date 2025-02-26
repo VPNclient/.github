@@ -10,6 +10,7 @@
 ![VPN Client Controller](https://raw.githubusercontent.com/VPNclient/.github/refs/heads/main/assets/vpnclient_scheme2.png)
 
 
-https://github.com/VPNclient/VPNclient-controller - репозиторий контроллера
-
-https://github.com/VPNclient/VPNclient-controller-flutter - обертка контроллера во flutter
+https://github.com/VPNclient/VPNclient-international - репозиторий примера приложения на Flutter
+https://github.com/VPNclient/VPNclient-controller-ios - репозиторий контроллера для iOS
+https://github.com/VPNclient/VPNclient-controller-android - репозиторий контроллера для Android
+https://github.com/VPNclient/VPNclient-controller-flutter - обертка(wrapper) контроллера во Flutter 

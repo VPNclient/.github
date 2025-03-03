@@ -10,13 +10,12 @@
 ![VPN Client Controller](https://raw.githubusercontent.com/VPNclient/.github/refs/heads/main/assets/vpnclient_scheme2.png)
 
 
-https://github.com/VPNclient/VPNclient-international - репозиторий примера приложения на Flutter
+https://github.com/VPNclient/VPNclient-application - репозиторий примера приложения на Flutter
+https://github.com/VPNclient/VPNclient-controller-flutter - VPN Client Controller на Flutter 
 
-https://github.com/VPNclient/VPNclient-controller-ios - репозиторий контроллера для iOS
-
-https://github.com/VPNclient/VPNclient-controller-android - репозиторий контроллера для Android
-
-https://github.com/VPNclient/VPNclient-controller-flutter - обертка(wrapper) контроллера во Flutter 
+Примеры форков прототипов для заказчиков:
+https://github.com/VPNclient/SuperHit-VPNclient-application - Super Hit
+https://github.com/VPNclient/fineVPN_international - fineVPN.org
 
 ## Преимущества решений на базе OpenSource VPN Client Controller
 ### 🖥️ 1. Технические преимущества решения

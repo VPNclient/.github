@@ -18,7 +18,7 @@ https://github.com/VPNclient/VPNclient-controller-flutter - VPN Client Controlle
 
 https://github.com/VPNclient/SuperHit-VPNclient-application - Super Hit
 
-https://github.com/VPNclient/fineVPN_international - fineVPN.org
+https://github.com/VPNclient/fineVPN-VPNclient-application - fineVPN.org
 
 ## Преимущества решений на базе OpenSource VPN Client Controller
 ### 🖥️ 1. Технические преимущества решения

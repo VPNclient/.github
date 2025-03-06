@@ -1,6 +1,8 @@
+[Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fvpnclient_support&color=blue)](https://t.me/vpnclient_support)
+
 # VPN Client
 
-Онсовная идея заключается в вынесении функционала, отвечающего за работу с VPN соединением в отдельный контроллер.
+Основная идея заключается в вынесении функционала, отвечающего за работу с VPN соединением в отдельный контроллер.
 В контроллере присутствуют сервисы и логика.
 Сервисы
 * Открывают системное VPN соединение

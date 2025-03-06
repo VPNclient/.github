@@ -1,4 +1,4 @@
-[Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fvpnclient_support&color=blue)](https://t.me/vpnclient_support)
+[![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fvpnclient_support&color=blue)](https://t.me/vpnclient_support)
 
 # VPN Client
 

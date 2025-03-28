@@ -14,15 +14,18 @@
 
 https://github.com/VPNclient/VPNclient-app - репозиторий примера приложения на Flutter
 
-https://github.com/VPNclient/VPNclient-controller-flutter - VPN Client Controller на Flutter 
-
+https://github.com/VPNclient/VPNclient-engine-flutter - VPN Client Engine на Flutter 
+https://github.com/VPNclient/VPNclient-engine-android - VPN Client Engine для Android 
+https://github.com/VPNclient/VPNclient-engine-ios - VPN Client Engine для iOS 
+https://github.com/VPNclient/VPNclient-engine-windows - VPN Client Engine для Windows 
+https://github.com/VPNclient/VPNclient-engine-linux - VPN Client Engine для Linux
 Примеры форков прототипов для заказчиков:
 
 https://github.com/VPNclient/SuperHit-VPNclient-app - Super Hit
 
 https://github.com/VPNclient/fineVPN-VPNclient-app - fineVPN.org
 
-## Преимущества решений на базе OpenSource VPN Client Controller
+## Преимущества решений на базе OpenSource VPN Client Engine
 ### 🖥️ 1. Технические преимущества решения
 #### 🛠️ Системная нативность
 - **Высокая производительность:**  Вся логика и службы по работе с VPN соединением вынесена на нативные языки, а не на Flutter. Критически важные функции, такие как маршрутизация трафика, автовыбор серверов и пропинговка, реализованы на нативных языках (Swift для iOS, Kotlin для Android), что обеспечивает максимальную производительность, стабильность и остуствие лагов.

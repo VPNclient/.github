@@ -1,35 +1,35 @@
-
-
-
 # VPN Client
 
-**VPN Client** — это кросс-платформенный клиент VPN с поддержкой множества ядер и протоколов. 
+[🇬🇧 English](README.md) | [🇷🇺 Русский](README_ru.md) |  [🇹🇭 ไทย](README_th.md)
+---
 
-## Основные возможности
+**VPN Client** is a cross-platform VPN client supporting multiple cores and protocols.
 
-- **Поддержка нескольких протоколов**: Xray (VMess, VLESS, Reality, Shadowsocks, Trojan, SSH), OpenVPN и WireGuard, а так же SOCKS5/HTTP/HTTPS proxy.
-- **Кросс-платформенность**: Доступен для iOS, Android, macOS, Windows и Linux.
-- **Высокая производительность**: Реализация нативных функций на Swift для iOS и Kotlin для Android, а так же реализация критически важных функций на C++ и Golang обеспечивает высокую скорость и стабильность работы.
+## Key Features
 
-## Архитектура
+- **Multi-protocol support**: Xray (VMess, VLESS, Reality, Shadowsocks, Trojan, SSH), OpenVPN, WireGuard, as well as SOCKS5/HTTP/HTTPS proxy.
+- **Cross-platform**: Available for iOS, Android, macOS, Windows, and Linux.
+- **High performance**: Native functionality implemented in Swift (iOS) and Kotlin (Android), and critical components written in C++ and Golang ensure speed and stability.
 
-Архитектура VPN Client разделена на несколько уровней:
+## Architecture
+
+VPN Client architecture is structured across several layers:
 
 1. **VPNclient-engine**  
-   Движок для разных платформ. Отвечает за установку и управление VPN-соединениями, маршрутизацию трафика, интеграцию с ядром системы и взаимодействие с VPN-протоколами (OpenVPN, WireGuard, Xray и др.).
+   The core engine for various platforms. Handles VPN setup and management, traffic routing, OS integration, and communication with VPN protocols (OpenVPN, WireGuard, Xray, etc.).
 
-2. **Платформенные обёртки:**
+2. **Platform Wrappers:**
    - **[VPNclient-engine-flutter](https://github.com/VPNclient/VPNclient-engine-flutter)**  
-     Плагин для Flutter, использующий `MethodChannel` для связи с нативной частью. Позволяет использовать VPNclient-engine в кросс-платформенных приложениях на Flutter.
+     Flutter plugin using `MethodChannel` to interact with native code. Allows using VPNclient-engine in cross-platform Flutter apps.
    - **[VPNclient-engine-react-native](https://github.com/VPNclient/VPNclient-engine-flutter)**  
-     Обёртка для React Native через `NativeModules`. Обеспечит аналогичную интеграцию с VPNclient-engine для приложений на React Native.
+     React Native wrapper via `NativeModules`. Provides the same VPNclient-engine integration for React Native apps.
 
 3. **VPN Client App**  
-   Приложение, построенное на Flutter, использующее обёртки для управления VPN-сессиями и отображения статуса соединения.
-   
+   A Flutter-based application utilizing the wrappers to manage VPN sessions and display connection status.
+
 ![VPN Client Controller](https://raw.githubusercontent.com/VPNclient/.github/refs/heads/main/assets/vpnclient_scheme2.png)
 
-## Поддерживаемые платформы
+## Supported Platforms
 
 - **iOS**
 - **Android**
@@ -37,41 +37,34 @@
 - **Windows**
 - **Linux**
 
-## Репозитории
+## Repositories
 
+- [VPNclient-app](https://github.com/VPNclient/VPNclient-app) – Flutter app example
+- [VPNclient-engine-flutter](https://github.com/VPNclient/VPNclient-engine-flutter) – Flutter Engine
+- [VPNclient-engine-android](https://github.com/VPNclient/VPNclient-engine-android) – Android Engine
+- [VPNclient-engine-ios](https://github.com/VPNclient/VPNclient-engine-ios) – iOS Engine
+- [VPNclient-engine-windows](https://github.com/VPNclient/VPNclient-engine-windows) – Windows Engine
+- [VPNclient-engine-linux](https://github.com/VPNclient/VPNclient-engine-linux) – Linux Engine
 
-https://github.com/VPNclient/VPNclient-app - репозиторий примера приложения на Flutter
+## Example Apps
 
-https://github.com/VPNclient/VPNclient-engine-flutter - VPN Client Engine на Flutter
-
-https://github.com/VPNclient/VPNclient-engine-android - VPN Client Engine для Android 
-
-https://github.com/VPNclient/VPNclient-engine-ios - VPN Client Engine для iOS 
-
-https://github.com/VPNclient/VPNclient-engine-windows - VPN Client Engine для Windows 
-
-https://github.com/VPNclient/VPNclient-engine-linux - VPN Client Engine для Linux
-
-## Примеры приложений
 - **[SuperHit-VPNclient-app](https://github.com/VPNclient/SuperHit-VPNclient-app)**
 - **[fineVPN-VPNclient-app](https://github.com/VPNclient/fineVPN-VPNclient-app)**
 
+## Benefits of VPN Client Engine
 
-## Преимущества использования VPN Client Engine
+1. **System-level native integration**
+2. **Flexibility**
+3. **Open Source**
 
-1. **Системная нативность**
-2. **Гибкость**
-3. **Открытый исходный код**
+## Getting Started
 
-## Начало работы
+Choose the appropriate repository for your platform from the list above and follow the instructions in that repository’s README.
 
-Для начала работы с VPN Client выберите соответствующий репозиторий для вашей платформы из списка выше и следуйте инструкциям в README данного репозитория.
+## License
 
-## Лицензия
+This project is licensed under the Extended GPLv3. See the [LICENSE](LICENSE.md) file for details.
 
-Этот проект лицензирован под лицензией Extended GPLv3. Подробности см. в файле [LICENSE](LICENSE.md).
+## Contact
 
-## Контакты
-
-Для получения дополнительной информации посетите наш сайт: [vpnclient.click](https://vpnclient.click/).
-
+For more information, visit our website: [vpnclient.click](https://vpnclient.click/).

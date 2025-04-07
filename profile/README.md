@@ -53,8 +53,8 @@ https://github.com/VPNclient/VPNclient-engine-windows - VPN Client Engine для
 https://github.com/VPNclient/VPNclient-engine-linux - VPN Client Engine для Linux
 
 ## Примеры приложений
-- **[SuperHit-VPNclient-app](https://github.com/VPNclient/SuperHit-VPNclient-app)**: :contentReference[oaicite:29]{index=29}&#8203;:contentReference[oaicite:30]{index=30}
-- **[fineVPN-VPNclient-app](https://github.com/VPNclient/fineVPN-VPNclient-app)**: :contentReference[oaicite:31]{index=31}&#8203;:contentReference[oaicite:32]{index=32}
+- **[SuperHit-VPNclient-app](https://github.com/VPNclient/SuperHit-VPNclient-app)**
+- **[fineVPN-VPNclient-app](https://github.com/VPNclient/fineVPN-VPNclient-app)**
 
 
 ## Преимущества использования VPN Client Engine

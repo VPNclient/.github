@@ -70,8 +70,8 @@ graph TD
 
 ## ⚙️ Supported Cores & Wrappers
 
-
-### Core Support Diagram
+<details>
+<summary>🧠 Core Support Diagram (click to expand)</summary>
 
 ```mermaid
 graph TD
@@ -119,6 +119,8 @@ graph TD
   style G fill:#ffc6ff
   style G1 fill:#ffc6ff
 ```
+
+</details>
 
 ### Proxy Driver Diagram
 ```mermaid

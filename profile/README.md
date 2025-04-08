@@ -71,8 +71,8 @@ graph TD
 ## ⚙️ Supported Cores & Wrappers
 
 - 🔌 **Xray Core** via:
-  - VPNclient Xray Wrapper
-  - libXray Wrapper
+  - [VPNclient Xray Wrapper](https://github.com/VPNclient/VPNclient-xray-wrapper)
+  - [libXray Wrapper](https://github.com/VPNclient/VPNclient-libXray)
   - sing-box Wrapper
 - 🔐 **OpenVPN Core**
 - ⚡ **WireGuard Core**
@@ -133,9 +133,9 @@ graph TD
 
 ## 🧦 Supported Proxy Drivers
 
-- 🧦 VPN Client Driver
-- 🧦 [hev-socks5](https://github.com/heiher/hev-socks5-tunnel)
-- 🧦 tun2socks
+- 🧦 [VPN Client Driver](https://github.com/VPNclient/VPNclient-driver)
+- 🧦 [hev-socks5](https://github.com/heiher/hev-socks5-tunnel](https://github.com/VPNclient/VPNclient-hev-socks5-tunnel)
+- 🧦 [tun2socks](https://github.com/VPNclient/VPNclient-tun2socks)
 - 🧦 WinTun
 
 <details>

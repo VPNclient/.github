@@ -104,6 +104,24 @@ graph TD
   style G1 fill:#ffc6ff
 ```
 
+### Proxy Driver Diagram
+```mermaid
+graph TD
+  style A fill:#fbc4ab
+  A[VPNclient Engine] --> B{Proxy }
+  style B fill:#fef9c3
+
+  B --> C[VPN Client Driver]
+  B --> D[hev-socks5]
+  B --> E[tun2socks]
+  B --> F[WinTun]
+
+  style C fill:#caffbf
+  style D fill:#a0c4ff
+  style E fill:#ffc6ff
+  style F fill:#ffd6a5
+```
+
 ## Supported Platforms
 
 - **iOS**

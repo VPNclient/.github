@@ -13,11 +13,11 @@
 
 ## 🖥️ Supported Platforms
 
-- ✅ iOS  
-- ✅ Android  
-- ✅ macOS  
+- ✅ iOS (15.0+)
+- ✅ Android (5.0+) 
+- ✅ macOS (Intel/Silicon)
 - ✅ Windows  
-- ✅ Linux  
+- ✅ Unix (Linux/Debian/Ubuntu)
 
 ## 📦 Architecture
 

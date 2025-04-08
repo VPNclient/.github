@@ -134,7 +134,7 @@ graph TD
 ## 🧦 Supported Proxy Drivers
 
 - 🧦 [VPN Client Driver](https://github.com/VPNclient/VPNclient-driver)
-- 🧦 [hev-socks5](https://github.com/heiher/hev-socks5-tunnel](https://github.com/VPNclient/VPNclient-hev-socks5-tunnel)
+- 🧦 [hev-socks5-tunnel](https://github.com/VPNclient/VPNclient-hev-socks5-tunnel)
 - 🧦 [tun2socks](https://github.com/VPNclient/VPNclient-tun2socks)
 - 🧦 WinTun
 
@@ -148,7 +148,7 @@ graph TD
   style B fill:#fef9c3
 
   B --> C[VPN Client Driver]
-  B --> D[hev-socks5]
+  B --> D[hev-socks5-tunnel]
   B --> E[tun2socks]
   B --> F[WinTun]
 

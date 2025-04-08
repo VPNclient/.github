@@ -129,6 +129,18 @@ graph TD
 
 </details>
 
+---
+
+## 🧦 Supported Proxy Drivers
+
+- 🧦 VPN Client Driver
+- 🧦 [hev-socks5](https://github.com/heiher/hev-socks5-tunnel)
+- 🧦 tun2socks
+- 🧦 WinTun
+
+<details>
+<summary>🧵 Proxy Driver Diagram (click to expand)</summary>
+
 ### Proxy Driver Diagram
 ```mermaid
 graph TD
@@ -146,6 +158,8 @@ graph TD
   style E fill:#ffc6ff
   style F fill:#ffd6a5
 ```
+
+</details>
 
 ## Repositories
 

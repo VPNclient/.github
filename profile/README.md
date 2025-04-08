@@ -64,41 +64,44 @@ graph TD
   style B fill:#fef9c3
 
   %% Wrappers
-  B --> C[libXray Wrapper]
-  B --> D[sing-box Wrapper]
-  style C fill:#cdeac0
-  style D fill:#b9fbc0
+  B --> C[VPNclient Xray Wrapper]
+  B --> D[libXray Wrapper]
+  B --> E[sing-box Wrapper]
+  style C fill:#a0c4ff
+  style D fill:#a0c4ff
+  style E fill:#a0c4ff
 
   %% Xray Core
-  C --> G[Xray Core]
-  D --> G[Xray Core]
-  style G fill:#a0c4ff
+  C --> H[Xray Core]
+  D --> H[Xray Core]
+  E --> H[Xray Core]
+  style H fill:#a0c4ff
 
   %% Xray Protocols 
-  G --> G1[VLESS]
-  G --> G2[VMess]
-  G --> G3[Reality]
-  G --> G4[Shadowsocks]
-  G --> G5[Hysteria]
-  G --> G6[Trojan]
-  style G1 fill:#a0c4ff
-  style G2 fill:#a0c4ff
-  style G3 fill:#a0c4ff
-  style G4 fill:#a0c4ff
-  style G5 fill:#a0c4ff
-  style G6 fill:#a0c4ff
-
-  %% WireGuard Core
-  B --> E[WireGuard Core]
-  E --> E1[WireGuard]
-  style E fill:#ffc6ff
-  style E1 fill:#ffc6ff
+  H --> H1[VLESS]
+  H --> H2[VMess]
+  H --> H3[Reality]
+  H --> H4[Shadowsocks]
+  H --> H5[Hysteria]
+  H --> H6[Trojan]
+  style H1 fill:#a0c4ff
+  style H2 fill:#a0c4ff
+  style H3 fill:#a0c4ff
+  style H4 fill:#a0c4ff
+  style H5 fill:#a0c4ff
+  style H6 fill:#a0c4ff
 
   %% OpenVPN Core
   B --> F[OpenVPN Core]
   F --> F1[OpenVPN]
   style F fill:#d0f4de
   style F1 fill:#d0f4de
+
+  %% WireGuard Core
+  B --> G[WireGuard Core]
+  G --> G1[WireGuard]
+  style G fill:#ffc6ff
+  style G1 fill:#ffc6ff
 ```
 
 ## Supported Platforms

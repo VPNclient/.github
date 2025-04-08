@@ -55,6 +55,34 @@ graph TD
   E --> J[Linux]
 ```
 
+### Core Support Diagram
+
+```mermaid
+graph TD
+  style A fill:#fbc4ab
+  A[VPNclient Engine] --> B{Cores}
+
+  style B fill:#fef9c3
+
+  B --> C[libXray Wrapper]
+  B --> D[sing-box Wrapper]
+  B --> E[WireGuard Core]
+  B --> F[OpenVPN Core]
+
+  C --> G[Xray Core]
+  D --> G[Xray Core] 
+ 
+  G --> G1[VLESS]
+  G --> G2[VMess]
+  G --> G3[Reality]
+  G --> G4[Shadowsocks]
+  G --> G5[Hysteria]
+  G --> G6[Trojan]
+
+  E --> E1[WireGuard]
+  F --> F1[OpenVPN]
+```
+
 ## Supported Platforms
 
 - **iOS**

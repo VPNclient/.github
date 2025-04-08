@@ -53,6 +53,7 @@ graph TD
   E --> H[macOS]
   E --> I[Windows]
   E --> J[Linux]
+```
 
 ## Supported Platforms
 

@@ -5,7 +5,7 @@
 
 **VPN Client** is a cross-platform VPN client supporting multiple cores and protocols.
 
-## Key Features
+## 🚀 Key Features
 
 - **Multi-protocol support**: Xray (VMess, VLESS, Reality, Shadowsocks, Trojan, SSH), OpenVPN, WireGuard, as well as SOCKS5/HTTP/HTTPS proxy.
 - **Cross-platform**: Available for iOS, Android, macOS, Windows, and Linux.

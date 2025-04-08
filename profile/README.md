@@ -59,7 +59,6 @@ graph TD
 
 ```mermaid
 graph TD
-graph TD
   style A fill:#fbc4ab
   A[VPNclient Engine] --> B{Cores}
   style B fill:#fef9c3

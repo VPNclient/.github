@@ -32,7 +32,7 @@ VPN Client architecture is structured across several layers:
 ```mermaid
 graph TD
   style A fill:#f9d5e5
-  A[VPNclient App] --> Z{UI Framework?}
+  A[VPNclient App] --> Z{UI Framework}
 
   Z -->|Flutter| B[Flutter Plugin]
   Z -->|React Native| C[React Native Plugin]
@@ -59,28 +59,47 @@ graph TD
 
 ```mermaid
 graph TD
+graph TD
   style A fill:#fbc4ab
   A[VPNclient Engine] --> B{Cores}
-
   style B fill:#fef9c3
 
+  %% Wrappers
   B --> C[libXray Wrapper]
   B --> D[sing-box Wrapper]
-  B --> E[WireGuard Core]
-  B --> F[OpenVPN Core]
+  style C fill:#cdeac0
+  style D fill:#b9fbc0
 
+  %% Xray Core
   C --> G[Xray Core]
-  D --> G[Xray Core] 
- 
+  D --> G[Xray Core]
+  style G fill:#a0c4ff
+
+  %% Xray Protocols 
   G --> G1[VLESS]
   G --> G2[VMess]
   G --> G3[Reality]
   G --> G4[Shadowsocks]
   G --> G5[Hysteria]
   G --> G6[Trojan]
+  style G1 fill:#a0c4ff
+  style G2 fill:#a0c4ff
+  style G3 fill:#a0c4ff
+  style G4 fill:#a0c4ff
+  style G5 fill:#a0c4ff
+  style G6 fill:#a0c4ff
 
+  %% WireGuard Core
+  B --> E[WireGuard Core]
   E --> E1[WireGuard]
+  style E fill:#ffc6ff
+  style E1 fill:#ffc6ff
+
+  %% OpenVPN Core
+  B --> F[OpenVPN Core]
   F --> F1[OpenVPN]
+  style F fill:#d0f4de
+  style F1 fill:#d0f4de
 ```
 
 ## Supported Platforms

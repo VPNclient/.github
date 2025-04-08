@@ -165,8 +165,8 @@ graph TD
 | Component | Repository |
 |----------|------------|
 | 🌐 VPN Client App (Flutter) | [VPNclient-app](https://github.com/VPNclient/VPNclient-app) |
-| 📱 VPN Client Flutter Plugin | [VPNclient-engine-flutter](https://github.com/VPNclient/VPNclient-engine-flutter) |
-| 📱 VPN Client React Native Plugin | [VPNclient-engine-react-native](https://github.com/VPNclient/VPNclient-engine-react-native) |
+| 📱 VPN Client Engine (Flutter Plugin) | [VPNclient-engine-flutter](https://github.com/VPNclient/VPNclient-engine-flutter) |
+| 📱 VPN Client Engine (React Native Plugin) | [VPNclient-engine-react-native](https://github.com/VPNclient/VPNclient-engine-react-native) |
 | 🤖 VPN Client Engine | [VPNclient-engine](https://github.com/VPNclient/VPNclient-engine) |
 
 ## Example Apps

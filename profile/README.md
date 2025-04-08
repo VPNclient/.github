@@ -37,6 +37,7 @@ VPN Client architecture is structured across several layers:
 
 <details>
 <summary>Architecture Diagram(click to expand)</summary>
+   
 ```mermaid
 graph TD
   style A fill:#f9d5e5

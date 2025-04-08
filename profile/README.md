@@ -141,7 +141,6 @@ graph TD
 <details>
 <summary>🧵 Proxy Driver Diagram (click to expand)</summary>
 
-### Proxy Driver Diagram
 ```mermaid
 graph TD
   style A fill:#fbc4ab
@@ -161,37 +160,46 @@ graph TD
 
 </details>
 
-## Repositories
+## 📂 Repositories
 
-- [VPNclient-app](https://github.com/VPNclient/VPNclient-app) – Flutter app example
-- [VPNclient-engine-flutter](https://github.com/VPNclient/VPNclient-engine-flutter) – Flutter Engine
-- [VPNclient-engine-android](https://github.com/VPNclient/VPNclient-engine-android) – Android Engine
-- [VPNclient-engine-ios](https://github.com/VPNclient/VPNclient-engine-ios) – iOS Engine
-- [VPNclient-engine-windows](https://github.com/VPNclient/VPNclient-engine-windows) – Windows Engine
-- [VPNclient-engine-linux](https://github.com/VPNclient/VPNclient-engine-linux) – Linux Engine
+| Component | Repository |
+|----------|------------|
+| 🌐 VPN Client App (Flutter) | [VPNclient-app](https://github.com/VPNclient/VPNclient-app) |
+| 📱 VPN Client Flutter Plugin | [VPNclient-engine-flutter](https://github.com/VPNclient/VPNclient-engine-flutter) |
+| 📱 VPN Client React Native Plugin | [VPNclient-engine-react-native](https://github.com/VPNclient/VPNclient-engine-react-native) |
+| 🤖 VPN Client Engine | [VPNclient-engine](https://github.com/VPNclient/VPNclient-engine) |
 
 ## Example Apps
 
 - **[SuperHit-VPNclient-app](https://github.com/VPNclient/SuperHit-VPNclient-app)**
 - **[fineVPN-VPNclient-app](https://github.com/VPNclient/fineVPN-VPNclient-app)**
 
-## Benefits of VPN Client Engine
+---
 
-1. **System-level native integration**
-2. **Flexibility**
-3. **Open Source**
+## 💪 Why VPN Client?
 
-## Getting Started
+- 🔧 **System-level native integration**  
+- 🧩 **Modular and flexible architecture**  
+- 💻 **Open Source** under Extended GPLv3
 
-Choose the appropriate repository for your platform from the list above and follow the instructions in that repository’s README.
+---
 
-## License
+## 🛠 Getting Started
 
-This project is licensed under the Extended GPLv3. See the [LICENSE](LICENSE.md) file for details.
+Choose the appropriate repository from the list above and follow the instructions in its `README.md`.
 
-## Contact
+---
 
-For more information, visit our website: [vpnclient.click](https://vpnclient.click/).
+## 📄 License
+
+Licensed under the **Extended GPLv3**.  
+See the [LICENSE](LICENSE.md) file for full details.
+
+---
+
+## 📬 Contact
+
+For more information, visit 🌐 [vpnclient.click](https://vpnclient.click)
 
 
 

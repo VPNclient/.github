@@ -68,6 +68,19 @@ graph TD
 
 ---
 
+## ⚙️ Supported Protocols
+
+- VLESS
+- VMess
+- Reality
+- Shadowsocks
+- Hysteria
+- Trojan
+- OpenVPN
+- WireGuard
+
+---
+
 ## ⚙️ Supported Cores & Wrappers
 
 - 🔌 **Xray Core** via:

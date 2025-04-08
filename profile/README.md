@@ -27,7 +27,32 @@ VPN Client architecture is structured across several layers:
 3. **VPN Client App**  
    A Flutter-based application utilizing the wrappers to manage VPN sessions and display connection status.
 
-![VPN Client Controller](https://raw.githubusercontent.com/VPNclient/.github/refs/heads/main/assets/vpnclient_scheme2.png)
+### Architecture Diagram
+
+```mermaid
+graph TD
+  style A fill:#f9d5e5
+  A[VPNclient App] --> Z{UI Framework?}
+
+  Z -->|Flutter| B[Flutter Plugin]
+  Z -->|React Native| C[React Native Plugin]
+  Z -->|Native| D[Swift/Kotlin/C++]
+
+  style B fill:#eeac99
+  style C fill:#eeac99
+  style D fill:#eeac99
+
+  B --> E[VPNclient Engine]
+  C --> E
+  D --> E
+
+  style E fill:#fbc4ab
+
+  E --> F[iOS]
+  E --> G[Android]
+  E --> H[macOS]
+  E --> I[Windows]
+  E --> J[Linux]
 
 ## Supported Platforms
 

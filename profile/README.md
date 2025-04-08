@@ -11,7 +11,15 @@
 - **Cross-platform**: Available for iOS, Android, macOS, Windows, and Linux.
 - **High performance**: Native functionality implemented in Swift (iOS) and Kotlin (Android), and critical components written in C++ and Golang ensure speed and stability.
 
-## Architecture
+## 🖥️ Supported Platforms
+
+- ✅ iOS  
+- ✅ Android  
+- ✅ macOS  
+- ✅ Windows  
+- ✅ Linux  
+
+## 📦 Architecture
 
 VPN Client architecture is structured across several layers:
 
@@ -27,8 +35,8 @@ VPN Client architecture is structured across several layers:
 3. **VPN Client App**  
    A Flutter-based application utilizing the wrappers to manage VPN sessions and display connection status.
 
-### Architecture Diagram
-
+<details>
+<summary>Architecture Diagram(click to expand)</summary>
 ```mermaid
 graph TD
   style A fill:#f9d5e5
@@ -54,6 +62,13 @@ graph TD
   E --> I[Windows]
   E --> J[Linux]
 ```
+
+</details>
+
+---
+
+## ⚙️ Supported Cores & Wrappers
+
 
 ### Core Support Diagram
 
@@ -122,14 +137,6 @@ graph TD
   style F fill:#ffd6a5
 ```
 
-## Supported Platforms
-
-- **iOS**
-- **Android**
-- **macOS**
-- **Windows**
-- **Linux**
-
 ## Repositories
 
 - [VPNclient-app](https://github.com/VPNclient/VPNclient-app) – Flutter app example
@@ -161,3 +168,16 @@ This project is licensed under the Extended GPLv3. See the [LICENSE](LICENSE.md)
 ## Contact
 
 For more information, visit our website: [vpnclient.click](https://vpnclient.click/).
+
+
+
+
+
+
+
+
+
+
+
+
+

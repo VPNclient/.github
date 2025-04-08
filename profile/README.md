@@ -70,6 +70,13 @@ graph TD
 
 ## ⚙️ Supported Cores & Wrappers
 
+- 🔌 **Xray Core** via:
+  - VPNclient Xray Wrapper
+  - libXray Wrapper
+  - sing-box Wrapper
+- 🔐 **OpenVPN Core**
+- ⚡ **WireGuard Core**
+  
 <details>
 <summary>🧠 Core Support Diagram (click to expand)</summary>
 

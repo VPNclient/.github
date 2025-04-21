@@ -1,6 +1,6 @@
 # VPN Client
 
-[🇬🇧 English](README.md) | [🇷🇺 Русский](README_ru.md) |  [🇹🇭 ไทย](README_th.md)
+[🇬🇧 English](README.md) | [🇷🇺 Русский](README_ru.md) | [🇹🇭 ไทย](README_th.md) | [🇨🇳 中文](README_zh.md)
 ---
 
 **VPN Client** is a cross-platform VPN client supporting multiple cores and protocols.

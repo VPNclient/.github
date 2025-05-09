@@ -217,13 +217,13 @@ See the [LICENSE](LICENSE.md) file for full details.
 
 | Network       | Badge | Address                                      |
 |---------------|-------|---------------------------------------------|
-| **BEP20**     | ![BEP20](https://img.shields.io/badge/BEP20-Compatible-blue) | `0x7b2b8f165ce996bef450ed271c17c2e1be67a361` [📋](# "0x7b2b8f165ce996bef450ed271c17c2e1be67a361") |
-| **TRC20**     | ![TRC20](https://img.shields.io/badge/TRC20-Compatible-blue) | `TCS4bmdr8JFY3bsARce2uX9TE2x724nkES` [📋](# "TCS4bmdr8JFY3bsARce2uX9TE2x724nkES") |
-| **ERC20**     | ![ERC20](https://img.shields.io/badge/ERC20-Compatible-blue) | `0x6dd705576f4867f74eb472f25feed6cfce462ac7` [📋](# "0x6dd705576f4867f74eb472f25feed6cfce462ac7") |
+| **BEP20**     | ![BEP20](https://img.shields.io/badge/BEP20-Compatible-blue) | `0x7b2b8f165ce996bef450ed271c17c2e1be67a361` |
+| **TRC20**     | ![TRC20](https://img.shields.io/badge/TRC20-Compatible-blue) | `TCS4bmdr8JFY3bsARce2uX9TE2x724nkES` |
+| **ERC20**     | ![ERC20](https://img.shields.io/badge/ERC20-Compatible-blue) | `0x6dd705576f4867f74eb472f25feed6cfce462ac7` |
 | **Avalanche** | ![AVAX](https://img.shields.io/badge/Avalanche-Compatible-orange) | `0x6dd705576f4867f74eb472f25feed6cfce462ac7` |
 | **Optimism**  | ![OP](https://img.shields.io/badge/Optimism-Compatible-red) | `0x6dd705576f4867f74eb472f25feed6cfce462ac7` |
 | **Arbitrum**  | ![ARB](https://img.shields.io/badge/Arbitrum-Compatible-blue) | `0x6dd705576f4867f74eb472f25feed6cfce462ac7` |
-| **TON**       | ![TON](https://img.shields.io/badge/TON-Compatible-blue) | `UQCvoBg8yBYS8m4MGGrwbd-SSrRHqAG6ER_mOITq2ecDL7kI` [📋](# "UQCvoBg8yBYS8m4MGGrwbd-SSrRHqAG6ER_mOITq2ecDL7kI") |
+| **TON**       | ![TON](https://img.shields.io/badge/TON-Compatible-blue) | `UQCvoBg8yBYS8m4MGGrwbd-SSrRHqAG6ER_mOITq2ecDL7kI` |
 
 ### Traditional Payment Methods
 ![WebMoney](https://img.shields.io/badge/WebMoney-Supported-green)

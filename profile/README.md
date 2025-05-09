@@ -212,10 +212,14 @@ See the [LICENSE](LICENSE.md) file for full details.
 
 ## 📄 Donations
 
-Guys, we very need your support
-BEP20 0x7b2b8f165ce996bef450ed271c17c2e1be67a361
+Guys, we very need your support:
+
+BEP20(USDT/ETH) 0x7b2b8f165ce996bef450ed271c17c2e1be67a361
+
 Webmoney(WMZ) Z243626087129
+
 Webmoney(WMT) T832031273122
+
 Webmoney(WMX) X699730912499
 
 ---

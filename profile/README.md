@@ -210,29 +210,31 @@ See the [LICENSE](LICENSE.md) file for full details.
 
 ---
 
-## 📄 Donations
+## ❤️ Support the Project
 
-Guys, we very need your support:
+### Cryptocurrency Donations
+![Crypto Donations](https://img.shields.io/badge/Accepting-8%2B%20Cryptos-orange)
 
-BEP20(USDT,ETH,...) 0x7b2b8f165ce996bef450ed271c17c2e1be67a361
+| Network       | Badge | Address                                      |
+|---------------|-------|---------------------------------------------|
+| **BEP20**     | ![BEP20](https://img.shields.io/badge/BEP20-Compatible-blue) | `0x7b2b8f165ce996bef450ed271c17c2e1be67a361` [📋](# "0x7b2b8f165ce996bef450ed271c17c2e1be67a361") |
+| **TRC20**     | ![TRC20](https://img.shields.io/badge/TRC20-Compatible-blue) | `TCS4bmdr8JFY3bsARce2uX9TE2x724nkES` [📋](# "TCS4bmdr8JFY3bsARce2uX9TE2x724nkES") |
+| **ERC20**     | ![ERC20](https://img.shields.io/badge/ERC20-Compatible-blue) | `0x6dd705576f4867f74eb472f25feed6cfce462ac7` [📋](# "0x6dd705576f4867f74eb472f25feed6cfce462ac7") |
+| **Avalanche** | ![AVAX](https://img.shields.io/badge/Avalanche-Compatible-orange) | `0x6dd705576f4867f74eb472f25feed6cfce462ac7` |
+| **Optimism**  | ![OP](https://img.shields.io/badge/Optimism-Compatible-red) | `0x6dd705576f4867f74eb472f25feed6cfce462ac7` |
+| **Arbitrum**  | ![ARB](https://img.shields.io/badge/Arbitrum-Compatible-blue) | `0x6dd705576f4867f74eb472f25feed6cfce462ac7` |
+| **TON**       | ![TON](https://img.shields.io/badge/TON-Compatible-blue) | `UQCvoBg8yBYS8m4MGGrwbd-SSrRHqAG6ER_mOITq2ecDL7kI` [📋](# "UQCvoBg8yBYS8m4MGGrwbd-SSrRHqAG6ER_mOITq2ecDL7kI") |
 
-Webmoney(WMZ) Z243626087129
+### Traditional Payment Methods
+![WebMoney](https://img.shields.io/badge/WebMoney-Supported-green)
 
-Webmoney(WMT) T832031273122
+| Method        | Badge | Address                                  |
+|---------------|-------|-----------------------------------------|
+| **WebMoney WMZ**  | ![WMZ](https://img.shields.io/badge/WMZ-Compatible-blue) | Z243626087129 |
+| **WebMoney WMT**  | ![WMT](https://img.shields.io/badge/WMT-Compatible-blue) | T832031273122 |
+| **WebMoney WMX**  | ![WMX](https://img.shields.io/badge/WMX-Compatible-blue) | X699730912499 |
 
-Webmoney(WMX) X699730912499
-
-TRC20(USDT,ETH,...) TCS4bmdr8JFY3bsARce2uX9TE2x724nkES
-
-ERC20(USDT,ETH,...) 0x6dd705576f4867f74eb472f25feed6cfce462ac7
-
-Avalanche 0x6dd705576f4867f74eb472f25feed6cfce462ac7
-
-Optimism 0x6dd705576f4867f74eb472f25feed6cfce462ac7
-
-Arbitrum 0x6dd705576f4867f74eb472f25feed6cfce462ac7
-
-TON UQCvoBg8yBYS8m4MGGrwbd-SSrRHqAG6ER_mOITq2ecDL7kI
+### 🙏 Thank You!
 
 ---
 

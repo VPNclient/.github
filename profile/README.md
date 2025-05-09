@@ -213,7 +213,7 @@ See the [LICENSE](LICENSE.md) file for full details.
 ## ❤️ Support the Project
 
 ### Cryptocurrency Donations
-![Crypto Donations](https://img.shields.io/badge/Accepting-8%2B%20Cryptos-orange)
+![Crypto Donations](https://img.shields.io/badge/Accepting-7%2B%20Cryptos-orange)
 
 | Network       | Badge | Address                                      |
 |---------------|-------|---------------------------------------------|

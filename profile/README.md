@@ -230,6 +230,8 @@ See the [LICENSE](LICENSE.md) file for full details.
 
 | Method        | Badge | Address                                  |
 |---------------|-------|-----------------------------------------|
+| **VISA Card (International)**  | ![Visa/MasterCard](https://img.shields.io/badge/Card-International-blue) | `4340 7620 0456 8628` |
+| **MIR Card (Russia)** | ![МИР](https://img.shields.io/badge/МИР-Russian-green)                   | `2200 7015 1277 2515` |
 | **WebMoney WMZ**  | ![WMZ](https://img.shields.io/badge/WMZ-Compatible-blue) | Z243626087129 |
 | **WebMoney WMT**  | ![WMT](https://img.shields.io/badge/WMT-Compatible-blue) | T832031273122 |
 | **WebMoney WMX**  | ![WMX](https://img.shields.io/badge/WMX-Compatible-blue) | X699730912499 |

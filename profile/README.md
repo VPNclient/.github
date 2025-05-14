@@ -78,6 +78,7 @@ graph TD
 - Trojan
 - OpenVPN
 - WireGuard
+- ГОСТ ВПН
 
 ---
 
